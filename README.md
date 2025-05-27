@@ -1,3 +1,8 @@
+> [!note]
+> This repository contains notes, algorithms, and the final project for the Discrete Mathematics II course of the Computer Science degree at FAMAF, Universidad Nacional de Córdoba.
+>
+> The materials are mainly in Spanish, as they were prepared for academic use.
+
 # Matemática Discreta II - 2023
 
 Repositorio que contiene apuntes, algoritmos y el proyecto final de la materia Matemática Discreta II de la Licenciatura en Ciencias de la Computación de la Facultad de Matemática, Astronomía, Física y Computación de la Universidad Nacional de Córdoba.
